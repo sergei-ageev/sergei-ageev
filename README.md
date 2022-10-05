@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Sergei. I am a network engineer and system administrator.
+Now i am learning Dev Ops.
+
+To get in touch with me, here is my telegram: @skoba89.
+
 <!--
 **sergei-ageev/sergei-ageev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
